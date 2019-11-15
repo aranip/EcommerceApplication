@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102158" started-at="2019-11-02T23:39:40Z" finished-at="2019-11-02T23:41:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102158" started-at="2019-11-02T23:39:40Z" finished-at="2019-11-02T23:41:23Z">
+      <class name="com.ecommerce.test.ecommerceRegistrationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="setup" is-config="true" duration-ms="3980" started-at="2019-11-02T16:39:40Z" finished-at="2019-11-02T16:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="BlankEmailReg()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="BlankEmailReg" duration-ms="22160" started-at="2019-11-02T16:39:44Z" finished-at="2019-11-02T16:40:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankEmailReg -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="112" started-at="2019-11-02T16:40:07Z" finished-at="2019-11-02T16:40:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="setup" is-config="true" duration-ms="2372" started-at="2019-11-02T16:40:07Z" finished-at="2019-11-02T16:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="InvalidPwd()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="InvalidPwd" duration-ms="23145" started-at="2019-11-02T16:40:09Z" finished-at="2019-11-02T16:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidPwd -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="116" started-at="2019-11-02T16:40:32Z" finished-at="2019-11-02T16:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="setup" is-config="true" duration-ms="2445" started-at="2019-11-02T16:40:32Z" finished-at="2019-11-02T16:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Terms()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="Terms" duration-ms="23047" started-at="2019-11-02T16:40:35Z" finished-at="2019-11-02T16:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terms -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="116" started-at="2019-11-02T16:40:58Z" finished-at="2019-11-02T16:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="setup" is-config="true" duration-ms="2340" started-at="2019-11-02T16:40:58Z" finished-at="2019-11-02T16:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidRegistration()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="ValidRegistration" duration-ms="22183" started-at="2019-11-02T16:41:00Z" finished-at="2019-11-02T16:41:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidRegistration -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ecommerce.test.ecommerceRegistrationTest@1bce4f0a]" name="teardown" is-config="true" duration-ms="113" started-at="2019-11-02T16:41:22Z" finished-at="2019-11-02T16:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecommerce.test.ecommerceRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
